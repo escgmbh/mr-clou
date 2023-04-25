@@ -1,12 +1,12 @@
 <script setup></script>
 <template>
-    <div class="navbar bg-white h-36 fixed">
+    <div class="navbar bg-white md:h-32 fixed">
         <div class="flex-1">
             <a class="  " href="/"
                 ><img
-                    src="public/images/mrclou_logo-1.png"
+                    src="images/mrclou_logo-1.png"
                     alt="logo of mr. clou"
-                    class="w-60"
+                    class="w-32 md:w-full"
             /></a>
         </div>
         <div class="flex-none">

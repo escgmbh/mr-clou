@@ -16,6 +16,9 @@ module.exports = {
             fontFamily: {
                 lato: ['Lato', 'sans-serif'],
             },
+            height: {
+                heroimg: '45rem',
+            },
         },
     },
     daisyui: {
