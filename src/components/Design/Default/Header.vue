@@ -7,7 +7,7 @@
             /></a>
         </div>
         <div class="flex-none">
-            <ul class="menu menu-horizontal px-1">
+            <ul class="menu menu-horizontal px-1 font-semibold">
                 <li><a class="uppercase">Home</a></li>
                 <li tabindex="0">
                     <a class="uppercase">
@@ -24,12 +24,16 @@
                             />
                         </svg>
                     </a>
-                    <ul class="p-2 bg-base-100">
+                    <ul class="p-2 bg-green-500 text-white">
                         <li><a class="uppercase">säfte & mehr</a></li>
                         <li><a class="uppercase">detox yourself</a></li>
+                        <li><a class="uppercase">salat bowls and wraps</a></li>
+                        <li><a class="uppercase">speisen</a></li>
+                        <li><a class="uppercase">desserts</a></li>
+                        <li><a class="uppercase">nähwertangaben</a></li>
                     </ul>
                 </li>
-                <li><a class="uppercase">sepuerfoods</a></li>
+                <li><a class="uppercase text-orange-500">superfoods</a></li>
             </ul>
         </div>
     </div>
