@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+    esc_suite_prod:
+        build: .
+        ports:
+            - 7083:80
+        restart: always

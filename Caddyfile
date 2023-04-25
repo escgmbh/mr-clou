@@ -1,0 +1,11 @@
+:80 {
+    root * /app
+    try_files {path} /index.html
+    file_server
+    encode zstd gzip
+    log {
+        level DEBUG
+		# format  common_log
+		output file /data/logs/caddy.log
+	}
+}
